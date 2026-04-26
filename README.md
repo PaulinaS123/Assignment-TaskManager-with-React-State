@@ -30,8 +30,7 @@ Users can add tasks and toggle their completion status. The application focuses 
 ## How to Run the Project
 
 1. Clone the repository:
-git clone https://github.com/YOUR-USERNAME/task-manager-app.git
-
+git clone https://github.com/PaulinaS123/Assignment-TaskManager-with-React-State.git
 2. Navigate into the folder:
 cd task-manager-app
 
