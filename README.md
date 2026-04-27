@@ -69,7 +69,7 @@ http://localhost:5173/
 ---
 
 ## Video Explanation
-(Add your YouTube or Loom link here)
+https://youtu.be/aGODEMXOh30
 
 ---
 
